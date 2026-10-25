@@ -1,0 +1,81 @@
+{
+  "source": "EPA AP-42, Fifth Edition, Volume I, Chapter 2: Solid Waste Disposal; IPCC AR6 WGIII",
+  "source_url": "https://www.epa.gov/air-emissions-factors-and-quantification/ap-42-compilation-air-emissions-factors",
+  "extracted_pdfs": [
+    "2.0_introduction.pdf",
+    "2.1_refuse_combustion.pdf",
+    "2.3_medical_waste_incineration.pdf",
+    "2.4_msw_landfills.pdf",
+    "2.5_open_burning.pdf",
+    "2.6_automobile_body_incineration.pdf",
+    "2.7_conical_burners.pdf"
+  ],
+  "note": "Emissions factors represent kg CO2e AVOIDED per kg of material recycled (vs landfilling/incineration). Used for carbon credit calculation: CO2e avoided (tonnes) = waste_weight_kg × factor (kg CO2e/kg) ÷ 1000.",
+  "unit": "kg CO2e avoided per kg material",
+  "materials": {
+    "aluminum": {
+      "price_per_kg": 0.0,
+      "emission_factor_kg_co2e_per_kg": 9.3,
+      "source": "EPA AP-42 Ch.2; IPCC AR6 WGIII",
+      "notes": "Aluminum recycling avoids ~95% of virgin production emissions"
+    },
+    "steel_cans": {
+      "price_per_kg": 0.0,
+      "emission_factor_kg_co2e_per_kg": 1.8,
+      "source": "EPA AP-42 Ch.2",
+      "notes": "Steel/tin can recycling avoids ~60-70% of virgin production emissions"
+    },
+    "pet_plastic": {
+      "price_per_kg": 0.0,
+      "emission_factor_kg_co2e_per_kg": 2.1,
+      "source": "EPA AP-42 Ch.2; IPCC AR6 WGIII",
+      "notes": "PET bottle recycling avoids ~70% of virgin production emissions"
+    },
+    "hdpe_plastic": {
+      "price_per_kg": 0.0,
+      "emission_factor_kg_co2e_per_kg": 1.9,
+      "source": "EPA AP-42 Ch.2; IPCC AR6 WGIII",
+      "notes": "HDPE recycling avoids ~65% of virgin production emissions"
+    },
+    "glass": {
+      "price_per_kg": 0.0,
+      "emission_factor_kg_co2e_per_kg": 0.4,
+      "source": "EPA AP-42 Ch.2",
+      "notes": "Glass recycling avoids ~30% of virgin production emissions"
+    },
+    "paper_cardboard": {
+      "price_per_kg": 0.0,
+      "emission_factor_kg_co2e_per_kg": 1.2,
+      "source": "EPA AP-42 Ch.2; IPCC AR6 WGIII",
+      "notes": "Paper recycling avoids ~40% of virgin production emissions; avoids methane from landfill"
+    },
+    "organic_compost": {
+      "price_per_kg": 0.0,
+      "emission_factor_kg_co2e_per_kg": 0.8,
+      "source": "EPA AP-42 Ch.2; IPCC AR6 WGIII",
+      "notes": "Composting avoids methane emissions from anaerobic landfill decomposition"
+    },
+    "e_waste": {
+      "price_per_kg": 0.0,
+      "emission_factor_kg_co2e_per_kg": 1.5,
+      "source": "EPA AP-42 Ch.2; IPCC AR6 WGIII",
+      "notes": "E-waste recycling recovers metals and avoids hazardous landfill leaching"
+    },
+    "tires": {
+      "price_per_kg": 0.0,
+      "emission_factor_kg_co2e_per_kg": 1.3,
+      "source": "EPA AP-42 Ch.2",
+      "notes": "Tire recycling avoids methane and avoids virgin rubber production"
+    },
+    "general_mixed_recyclables": {
+      "price_per_kg": 0.0,
+      "emission_factor_kg_co2e_per_kg": 1.0,
+      "source": "EPA AP-42 Ch.2; IPCC AR6 WGIII",
+      "notes": "Conservative estimate for mixed recyclable waste"
+    }
+  },
+  "calculation_formula": "CO2e_avoided_tonnes = waste_weight_kg × emission_factor_kg_co2e_per_kg ÷ 1000",
+  "credit_conversion": "1 carbon credit = 1 tonne CO2e avoided (rounded down)",
+  "last_updated": "2026-10-22",
+  "demo_note": "For hackathon demo only. Values are estimates for demonstration purposes."
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" role="img" aria-label="Sample photo: glass bottles">
+  <rect width="640" height="480" fill="#f0fdfa"/>
+  <rect x="0" y="360" width="640" height="120" fill="#ccfbf1"/>
+  <g fill="#14b8a6" opacity="0.85">
+    <path d="M262 330V206c0-16 10-24 10-40V138h28v28c0 16 10 24 10 40v124z"/>
+    <path d="M330 330V230c0-14 8-20 8-34v-24h24v24c0 14 8 20 8 34v100z"/>
+    <path d="M392 330V214c0-14 8-22 8-36v-26h22v26c0 14 8 22 8 36v116z"/>
+  </g>
+  <g fill="#99f6e4">
+    <rect x="266" y="230" width="38" height="10" rx="3"/>
+    <rect x="334" y="248" width="32" height="8" rx="3"/>
+  </g>
+  <text x="40" y="60" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#134e4a">Glass bottles</text>
+  <text x="40" y="92" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#0f766e">Sample photo (demo fallback)</text>
+</svg>

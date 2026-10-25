@@ -1,0 +1,59 @@
+{
+  "C:\\projects\\IEEE\\contracts\\BatchNFT.sol": {
+    "jobHash": "solc-0_8_28-30775bfc1b76ee522079ff4b3c978cc7e7d49071",
+    "isolated": false,
+    "compilerType": "solc",
+    "artifactPaths": [
+      "C:\\projects\\IEEE\\artifacts\\contracts\\BatchNFT.sol\\BatchNFT.json"
+    ],
+    "buildInfoPath": "C:\\projects\\IEEE\\artifacts\\build-info\\solc-0_8_28-c09c65606d20849c7295c787e8f4ada65f3309b4.json",
+    "buildInfoOutputPath": "C:\\projects\\IEEE\\artifacts\\build-info\\solc-0_8_28-c09c65606d20849c7295c787e8f4ada65f3309b4.output.json",
+    "typeFilePath": "C:\\projects\\IEEE\\artifacts\\contracts\\BatchNFT.sol\\artifacts.d.ts",
+    "wasm": false,
+    "artifactsDirectory": "C:\\projects\\IEEE\\artifacts",
+    "emitsTypeDeclarations": true
+  },
+  "C:\\projects\\IEEE\\contracts\\CarbonCreditNFT.sol": {
+    "jobHash": "solc-0_8_28-2bca933786a8c58583a5dceb3bcdd7579aeb1a64",
+    "isolated": false,
+    "compilerType": "solc",
+    "artifactPaths": [
+      "C:\\projects\\IEEE\\artifacts\\contracts\\CarbonCreditNFT.sol\\CarbonCreditNFT.json",
+      "C:\\projects\\IEEE\\artifacts\\contracts\\CarbonCreditNFT.sol\\Strings.json"
+    ],
+    "buildInfoPath": "C:\\projects\\IEEE\\artifacts\\build-info\\solc-0_8_28-c09c65606d20849c7295c787e8f4ada65f3309b4.json",
+    "buildInfoOutputPath": "C:\\projects\\IEEE\\artifacts\\build-info\\solc-0_8_28-c09c65606d20849c7295c787e8f4ada65f3309b4.output.json",
+    "typeFilePath": "C:\\projects\\IEEE\\artifacts\\contracts\\CarbonCreditNFT.sol\\artifacts.d.ts",
+    "wasm": false,
+    "artifactsDirectory": "C:\\projects\\IEEE\\artifacts",
+    "emitsTypeDeclarations": true
+  },
+  "C:\\projects\\IEEE\\contracts\\CreditMarketplace.sol": {
+    "jobHash": "solc-0_8_28-a93e91e21bf9959db97336f1d39755003a6afcc8",
+    "isolated": false,
+    "compilerType": "solc",
+    "artifactPaths": [
+      "C:\\projects\\IEEE\\artifacts\\contracts\\CreditMarketplace.sol\\CreditMarketplace.json"
+    ],
+    "buildInfoPath": "C:\\projects\\IEEE\\artifacts\\build-info\\solc-0_8_28-c09c65606d20849c7295c787e8f4ada65f3309b4.json",
+    "buildInfoOutputPath": "C:\\projects\\IEEE\\artifacts\\build-info\\solc-0_8_28-c09c65606d20849c7295c787e8f4ada65f3309b4.output.json",
+    "typeFilePath": "C:\\projects\\IEEE\\artifacts\\contracts\\CreditMarketplace.sol\\artifacts.d.ts",
+    "wasm": false,
+    "artifactsDirectory": "C:\\projects\\IEEE\\artifacts",
+    "emitsTypeDeclarations": true
+  },
+  "C:\\projects\\IEEE\\contracts\\PayoutToken.sol": {
+    "jobHash": "solc-0_8_28-cb9c9a71a61d54c695fbd5e72bce5df1333b57fe",
+    "isolated": false,
+    "compilerType": "solc",
+    "artifactPaths": [
+      "C:\\projects\\IEEE\\artifacts\\contracts\\PayoutToken.sol\\PayoutToken.json"
+    ],
+    "buildInfoPath": "C:\\projects\\IEEE\\artifacts\\build-info\\solc-0_8_28-c09c65606d20849c7295c787e8f4ada65f3309b4.json",
+    "buildInfoOutputPath": "C:\\projects\\IEEE\\artifacts\\build-info\\solc-0_8_28-c09c65606d20849c7295c787e8f4ada65f3309b4.output.json",
+    "typeFilePath": "C:\\projects\\IEEE\\artifacts\\contracts\\PayoutToken.sol\\artifacts.d.ts",
+    "wasm": false,
+    "artifactsDirectory": "C:\\projects\\IEEE\\artifacts",
+    "emitsTypeDeclarations": true
+  }
+}

@@ -1,0 +1,1249 @@
+{
+  "source": "EPA AP-42, Fifth Edition, Volume I, Chapter 2: Solid Waste Disposal",
+  "source_url": "https://www.epa.gov/air-emissions-factors-and-quantification/ap-42-compilation-air-emissions-factors",
+  "note": "Emissions factors extracted from EPA AP-42 Chapter 2. Use for carbon credit calculation: CO2e avoided (tonnes) = waste_weight_kg × factor (kg CO2e/kg) ÷ 1000.",
+  "total_factors_found": 126,
+  "factors": [
+    {
+      "line": "continue.  Between 1995 and 2000, the MSW generation is predicted to increase from 1.9 to 2.0",
+      "material": "metal",
+      "numbers": [
+        "1995",
+        "2000",
+        "1.9",
+        "2.0"
+      ],
+      "source_section": "2.0_introduction"
+    },
+    {
+      "line": "As of January 1992, there were over 160 municipal waste combustor (MWC) plants operating in",
+      "material": "metal",
+      "numbers": [
+        "1992",
+        "160"
+      ],
+      "source_section": "2.1_refuse_combustion"
+    },
+    {
+      "line": "Subpart Ca) are currently being considered for new and existing facilities, as required by Section 129 of the",
+      "material": "metal",
+      "numbers": [
+        "129"
+      ],
+      "source_section": "2.1_refuse_combustion"
+    },
+    {
+      "line": "erected at the site (as opposed to being prefabricated at another location), and range in size from 46 to",
+      "material": "textiles",
+      "numbers": [
+        "46"
+      ],
+      "source_section": "2.1_refuse_combustion"
+    },
+    {
+      "line": "pre-processed, but they are typically shop fabricated and generally range in size from 4 to 130 Mg/day",
+      "material": "textiles",
+      "numbers": [
+        "4",
+        "130"
+      ],
+      "source_section": "2.1_refuse_combustion"
+    },
+    {
+      "line": "There are 2 basic types of FBC systems:  bubbling bed and circulating bed.  With bubbling bed",
+      "material": "metal",
+      "numbers": [
+        "2"
+      ],
+      "source_section": "2.1_refuse_combustion"
+    },
+    {
+      "line": "in the primary chamber are long, lasting up to 12 hours.  Bottom ash is usually discharged to a wet quench",
+      "material": "metal",
+      "numbers": [
+        "12"
+      ],
+      "source_section": "2.1_refuse_combustion"
+    },
+    {
+      "line": "2.1.3.2  Metals -",
+      "material": "metal",
+      "numbers": [
+        "2.1",
+        "3.2"
+      ],
+      "source_section": "2.1_refuse_combustion"
+    },
+    {
+      "line": "in the PM control device for these metals is generally greater than 98 percent.  Mercury, on the other hand,",
+      "material": "metal",
+      "numbers": [
+        "98"
+      ],
+      "source_section": "2.1_refuse_combustion"
+    },
+    {
+      "line": "2.1.3.6  Organic Compounds -",
+      "material": "organic",
+      "numbers": [
+        "2.1",
+        "3.6"
+      ],
+      "source_section": "2.1_refuse_combustion"
+    },
+    {
+      "line": "to 100 kilovolts]) discharge electrodes and grounded metal plates through which PM-laden flue gas flows.",
+      "material": "metal",
+      "numbers": [
+        "100"
+      ],
+      "source_section": "2.1_refuse_combustion"
+    },
+    {
+      "line": "ESPs at newer MWCs have SCAs in the range of 400 to 600.  When estimating emissions from",
+      "material": "metal",
+      "numbers": [
+        "400",
+        "600."
+      ],
+      "source_section": "2.1_refuse_combustion"
+    },
+    {
+      "line": "2.1.4.2  Fabric Filters -",
+      "material": "textiles",
+      "numbers": [
+        "2.1",
+        "4.2"
+      ],
+      "source_section": "2.1_refuse_combustion"
+    },
+    {
+      "line": "metals), SO2, and HCl emissions from MWCs.  Spray dryer/fabric filter systems are more common than",
+      "material": "metal",
+      "numbers": [
+        "2"
+      ],
+      "source_section": "2.1_refuse_combustion"
+    },
+    {
+      "line": "form alkali salts.  However, several key differences exist in these 2 approaches.  First, by injecting sorbent",
+      "material": "metal",
+      "numbers": [
+        "2"
+      ],
+      "source_section": "2.1_refuse_combustion"
+    },
+    {
+      "line": "effective removal of SO2 at relatively low sorbent feed rates.  Third, by injecting sorbent into the furnace",
+      "material": "metal",
+      "numbers": [
+        "2"
+      ],
+      "source_section": "2.1_refuse_combustion"
+    },
+    {
+      "line": "ducting.  However, HCl and lime do not react with each other at temperatures above 760EC (1,400EF).",
+      "material": "metal",
+      "numbers": [
+        "760",
+        "1",
+        "400"
+      ],
+      "source_section": "2.1_refuse_combustion"
+    },
+    {
+      "line": "2.1.4.5  Wet Scrubbers -",
+      "material": "tires",
+      "numbers": [
+        "2.1",
+        "4.5"
+      ],
+      "source_section": "2.1_refuse_combustion"
+    },
+    {
+      "line": "scrubbers, the flue gas reacts with an alkaline scrubber liquid to simultaneously remove HCl and SO2.",
+      "material": "tires",
+      "numbers": [
+        "2."
+      ],
+      "source_section": "2.1_refuse_combustion"
+    },
+    {
+      "line": "SO2 scrubber.  The alkaline solution, typically containing calcium hydroxide (Ca[OH]2), reacts with the",
+      "material": "tires",
+      "numbers": [
+        "2",
+        "2"
+      ],
+      "source_section": "2.1_refuse_combustion"
+    },
+    {
+      "line": "typically 980 to 1,095C (1,800 to 2,000F).  Depending on the heating value and moisture content of",
+      "material": "metal",
+      "numbers": [
+        "980",
+        "1",
+        "095",
+        "1",
+        "800"
+      ],
+      "source_section": "2.3_medical_waste_incineration"
+    },
+    {
+      "line": "6,500 lb/hr) (at an assumed fuel heating value of 19,700 kJ/kg [8,500 Btu/lb]).  Waste feed and ash",
+      "material": "metal",
+      "numbers": [
+        "6",
+        "500",
+        "19",
+        "700",
+        "8"
+      ],
+      "source_section": "2.3_medical_waste_incineration"
+    },
+    {
+      "line": "pollutants include:  (1)  particulate matter (PM), (2) metals, (3) acid gases, (4) oxides of nitrogen (NOx),",
+      "material": "metal",
+      "numbers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "source_section": "2.3_medical_waste_incineration"
+    },
+    {
+      "line": "(5) carbon monoxide (CO), (6) organics, and (7) various other materials present in medical wastes, such",
+      "material": "organic",
+      "numbers": [
+        "5",
+        "6",
+        "7"
+      ],
+      "source_section": "2.3_medical_waste_incineration"
+    },
+    {
+      "line": "30 percent for SO2.  Addition of an alkaline reagent to the scrubber liquor for acid neutralization has",
+      "material": "tires",
+      "numbers": [
+        "30",
+        "2."
+      ],
+      "source_section": "2.3_medical_waste_incineration"
+    },
+    {
+      "line": "charge; (2) the charged particles migrate to a collecting electrode of opposite polarity; and (3) the",
+      "material": "metal",
+      "numbers": [
+        "2",
+        "3"
+      ],
+      "source_section": "2.3_medical_waste_incineration"
+    },
+    {
+      "line": "can achieve 80 to 95 percent of HCl removal and 40 to 70 percent removal of SO2 under proper operating",
+      "material": "metal",
+      "numbers": [
+        "80",
+        "95",
+        "40",
+        "70",
+        "2"
+      ],
+      "source_section": "2.3_medical_waste_incineration"
+    },
+    {
+      "line": "and 2.3-15.  For emissions controlled with wet scrubbers, emission fact ors are presented separately for",
+      "material": "tires",
+      "numbers": [
+        "2.3",
+        "15."
+      ],
+      "source_section": "2.3_medical_waste_incineration"
+    },
+    {
+      "line": "ratings for rotary kiln incinerators are presented in Tables 2.3-16, 2.3-17, and 2.3-18.  Emissions data are",
+      "material": "metal",
+      "numbers": [
+        "2.3",
+        "16",
+        "2.3",
+        "17",
+        "2.3"
+      ],
+      "source_section": "2.3_medical_waste_incineration"
+    },
+    {
+      "line": "Table 2.3-4 (English And Metric Units).  EMISSION FACTORS FOR ALUMINUM, ANTIMONY, AND ARSENIC",
+      "material": "aluminum",
+      "numbers": [
+        "2.3",
+        "4"
+      ],
+      "source_section": "2.3_medical_waste_incineration"
+    },
+    {
+      "line": "Table 2.3-6 (English And English Units).  EMISSION FACTORS FOR CHROMIUM, COPPER, AND IRON",
+      "material": "metal",
+      "numbers": [
+        "2.3",
+        "6"
+      ],
+      "source_section": "2.3_medical_waste_incineration"
+    },
+    {
+      "line": "1. Locating And Estimating Air Toxic Emissions From Medical Waste Incinerators,",
+      "material": "metal",
+      "numbers": [
+        "1."
+      ],
+      "source_section": "2.3_medical_waste_incineration"
+    },
+    {
+      "line": "3. C. R. Brunner, \"Biomedical Waste Incineration\", presented at the 80th Annual Meeting of the Air",
+      "material": "metal",
+      "numbers": [
+        "3.",
+        "80"
+      ],
+      "source_section": "2.3_medical_waste_incineration"
+    },
+    {
+      "line": "25. Stack Emission Testing, Erlanger Medical Center, Chattanooga, Tennessee, Report I-6299-2,",
+      "material": "metal",
+      "numbers": [
+        "25.",
+        "6299",
+        "2"
+      ],
+      "source_section": "2.3_medical_waste_incineration"
+    },
+    {
+      "line": "29. K. A. Hansen, Source Emission Evaluation On A Rotary Atomizing Scrubber At Klamath Falls,",
+      "material": "tires",
+      "numbers": [
+        "29."
+      ],
+      "source_section": "2.3_medical_waste_incineration"
+    },
+    {
+      "line": "31. Stack Emission Testing, Erlanger Medical Center, Chattanooga, Tennessee, Report I-6299,",
+      "material": "metal",
+      "numbers": [
+        "31.",
+        "6299"
+      ],
+      "source_section": "2.3_medical_waste_incineration"
+    },
+    {
+      "line": "standards. This could cause, for example, a permit limit using an AP-42 emission factor resulting in approximately half",
+      "material": "metal",
+      "numbers": [
+        "42"
+      ],
+      "source_section": "2.4_msw_landfills"
+    },
+    {
+      "line": "recovery, and 32% was recycled or composted.5 There were an estimated 1,274 active MSW landfills in the United",
+      "material": "organic",
+      "numbers": [
+        "32",
+        "5",
+        "1",
+        "274"
+      ],
+      "source_section": "2.4_msw_landfills"
+    },
+    {
+      "line": "References for this AP-42 section are available electronically here. The reader is referred to Sections 13.2.2",
+      "material": "e-waste",
+      "numbers": [
+        "42",
+        "13.2",
+        "2"
+      ],
+      "source_section": "2.4_msw_landfills"
+    },
+    {
+      "line": "(Unpaved Roads), and 11.2.4 (Heavy Construction Operations) of the Electronic AP-42: Compilation of Air",
+      "material": "e-waste",
+      "numbers": [
+        "11.2",
+        "4",
+        "42"
+      ],
+      "source_section": "2.4_msw_landfills"
+    },
+    {
+      "line": "Electronic AP-42: Compilation of Air Emissions Factors from Stationary Sources also contains emission factors for",
+      "material": "e-waste",
+      "numbers": [
+        "42"
+      ],
+      "source_section": "2.4_msw_landfills"
+    },
+    {
+      "line": "MSW landfills for certain new and existing landfills were published in the Federal Register on March 12, 1996.",
+      "material": "metal",
+      "numbers": [
+        "12",
+        "1996."
+      ],
+      "source_section": "2.4_msw_landfills"
+    },
+    {
+      "line": "available] and the primary gas produced is CO2. The second phase is characterized by O2 depletion, resulting in an",
+      "material": "metal",
+      "numbers": [
+        "2.",
+        "2"
+      ],
+      "source_section": "2.4_msw_landfills"
+    },
+    {
+      "line": "(i.e., negligibly reactive organic compounds as defined in 40 CFR 51.100).",
+      "material": "organic",
+      "numbers": [
+        "40",
+        "51.100"
+      ],
+      "source_section": "2.4_msw_landfills"
+    },
+    {
+      "line": "13.2.1 and 13.2.2 for information on estimating fugitive dust emissions from paved and unpaved roads.",
+      "material": "metal",
+      "numbers": [
+        "13.2",
+        "1",
+        "13.2",
+        "2"
+      ],
+      "source_section": "2.4_msw_landfills"
+    },
+    {
+      "line": "found at 40 CFR 98.343(a)(1), by 1474.83 to obtain methane generation for the reporting year for which emissions",
+      "material": "metal",
+      "numbers": [
+        "40",
+        "98.343",
+        "1",
+        "1474.83"
+      ],
+      "source_section": "2.4_msw_landfills"
+    },
+    {
+      "line": "MSW or have very little organic commercial/industrial wastes, then for default values before 1992, 600 ppmv as",
+      "material": "organic",
+      "numbers": [
+        "1992",
+        "600"
+      ],
+      "source_section": "2.4_msw_landfills"
+    },
+    {
+      "line": "Uncontrolled mass emissions per year of total NMOC (as hexane), CO2, CH4, and speciated organic and inorganic",
+      "material": "organic",
+      "numbers": [
+        "2",
+        "4"
+      ],
+      "source_section": "2.4_msw_landfills"
+    },
+    {
+      "line": "This equation assumes that the operating pressure of the system is approximately 1 atmosphere.  If the",
+      "material": "metal",
+      "numbers": [
+        "1"
+      ],
+      "source_section": "2.4_msw_landfills"
+    },
+    {
+      "line": "used as input parameters to equation 3 for estimating speciated emissions from landfills when site -specific data",
+      "material": "metal",
+      "numbers": [
+        "3"
+      ],
+      "source_section": "2.4_msw_landfills"
+    },
+    {
+      "line": "100% efficient in collecting landfill gas, so emissions of CH 4 and NMOC at a landfill with a gas recovery system still",
+      "material": "metal",
+      "numbers": [
+        "100",
+        "4"
+      ],
+      "source_section": "2.4_msw_landfills"
+    },
+    {
+      "line": "Control efficiencies based on test data for the combustion of CH 4, NMOC, and some speciated organics with",
+      "material": "organic",
+      "numbers": [
+        "4"
+      ],
+      "source_section": "2.4_msw_landfills"
+    },
+    {
+      "line": "landfill GCCS operates 100% of the time. Minor durations of system downtime associated with routine",
+      "material": "metal",
+      "numbers": [
+        "100"
+      ],
+      "source_section": "2.4_msw_landfills"
+    },
+    {
+      "line": "estimating a source's emissions, while controlled emissions of CO2 and SO2 are best estimated using site-specific",
+      "material": "metal",
+      "numbers": [
+        "2",
+        "2"
+      ],
+      "source_section": "2.4_msw_landfills"
+    },
+    {
+      "line": "analogous to those presented above for estimating SO2 emissions. Hence, the best source of data to estimate HCl",
+      "material": "metal",
+      "numbers": [
+        "2"
+      ],
+      "source_section": "2.4_msw_landfills"
+    },
+    {
+      "line": "Emissions Factors Procedures Document (January 2023). Factors are given quality ratings based on",
+      "material": "metal",
+      "numbers": [
+        "2023"
+      ],
+      "source_section": "2.4_msw_landfills"
+    },
+    {
+      "line": "Table 2.4-1. (Continued)",
+      "material": "metal",
+      "numbers": [
+        "2.4",
+        "1."
+      ],
+      "source_section": "2.4_msw_landfills"
+    },
+    {
+      "line": "Table 2.4-4. (Metric Units) EMISSION FACTORS FOR SECONDARY COMPOUNDS EXITING CONTROL DEVICESa",
+      "material": "metal",
+      "numbers": [
+        "2.4",
+        "4."
+      ],
+      "source_section": "2.4_msw_landfills"
+    },
+    {
+      "line": "Control Device Pollutantb kg/106 dscm Methane Emission Factor Rating",
+      "material": "metal",
+      "numbers": [
+        "106"
+      ],
+      "source_section": "2.4_msw_landfills"
+    },
+    {
+      "line": "5-02-002-01 Wood",
+      "material": "wood",
+      "numbers": [
+        "5",
+        "02",
+        "002",
+        "01"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "5-03-002-01 Wood/Vegetation/Leaves",
+      "material": "wood",
+      "numbers": [
+        "5",
+        "03",
+        "002",
+        "01"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "hoses, and tires are presented in Table 2.5-1.",
+      "material": "tires",
+      "numbers": [
+        "2.5",
+        "1."
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "Emission factors for the burning of scrap tires only are presented in Tables 2.5-2, 2.5-3, and",
+      "material": "tires",
+      "numbers": [
+        "2.5",
+        "2",
+        "2.5",
+        "3"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "2.5-4. Although it is illegal in many states to dispose of tires using open burning, fires often occur at",
+      "material": "tires",
+      "numbers": [
+        "2.5",
+        "4."
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "a Data indicate that total organic compounds (TOC) emissions are approximately 25% methane, 8%",
+      "material": "organic",
+      "numbers": [
+        "25",
+        "8"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "c Reference 2. Upholstery, belts, hoses, and tires burned together.",
+      "material": "tires",
+      "numbers": [
+        "2."
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "air-space between the tires in an actual fire. As discussed in Reference 21, it is difficult to estimate",
+      "material": "tires",
+      "numbers": [
+        "21"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "1 tire is approximately 0.2 cubic meter (m 3) (7 cubic feet [ft 3]). Table 2.5-2 presents emission factors",
+      "material": "tires",
+      "numbers": [
+        "1",
+        "0.2",
+        "3",
+        "7",
+        "3"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "for particulate metals. Table 2.5-3 presents emission factors for polycyclic aromatic hydrocarbons",
+      "material": "metal",
+      "numbers": [
+        "2.5",
+        "3"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "Table 2.5-2 (Metric And English Units). PARTICULATE METALS EMISSION FACTORS FROM OPEN BURNING OF TIRES a",
+      "material": "tires",
+      "numbers": [
+        "2.5",
+        "2"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "1000 tons tire",
+      "material": "tires",
+      "numbers": [
+        "1000"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "Aluminum 3.07 6.14 2.37 4.73",
+      "material": "aluminum",
+      "numbers": [
+        "3.07",
+        "6.14",
+        "2.37",
+        "4.73"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "Copper 0.31 0.62 0.29 0.58",
+      "material": "metal",
+      "numbers": [
+        "0.31",
+        "0.62",
+        "0.29",
+        "0.58"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "Table 2.5-4 (Metric And English Units). EMISSION FACTORS FOR ORGANIC COMPOUNDS FROM OPEN BURNING OF TIRES a",
+      "material": "organic",
+      "numbers": [
+        "2.5",
+        "4"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "c Data indicate that total organic compound (TOC) emissions average 22% methane, 7.5% other saturates, 17% olefins, 15% acetylene,",
+      "material": "organic",
+      "numbers": [
+        "22",
+        "7.5",
+        "17",
+        "15"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "emissions, called into-the-wind striplighting, which is lighting fields in strips into the wind at 100 - 200 meter (300 - 600 feet) intervals.",
+      "material": "metal",
+      "numbers": [
+        "100",
+        "200",
+        "300",
+        "600"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "2.5.2.4 Agricultural Plastic Film -",
+      "material": "plastic",
+      "numbers": [
+        "2.5",
+        "2.4"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "to vegetation and possibly pesticides. Table 2.5-7 presents emission factors for organic compounds",
+      "material": "organic",
+      "numbers": [
+        "2.5",
+        "7"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "c Tests indicate that total organic compound (TOC) emissions average 29% methane, 11% other saturates, 33% olefins, 27% other",
+      "material": "organic",
+      "numbers": [
+        "29",
+        "11",
+        "33",
+        "27"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "Table 2.5-7 (Metric And English Units). EMISSION FACTORS FOR ORGANIC",
+      "material": "organic",
+      "numbers": [
+        "2.5",
+        "7"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "Benzene mg/kg plastic 0.0478 0.0288 0.0123 0.0244",
+      "material": "plastic",
+      "numbers": [
+        "0.0478",
+        "0.0288",
+        "0.0123",
+        "0.0244"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "lb/1000 tons plastic 0.0955 0.0575 0.0247 0.0488",
+      "material": "plastic",
+      "numbers": [
+        "1000",
+        "0.0955",
+        "0.0575",
+        "0.0247",
+        "0.0488"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "Toluene mg/kg plastic 0.0046 0.0081 0.0033 0.0124",
+      "material": "plastic",
+      "numbers": [
+        "0.0046",
+        "0.0081",
+        "0.0033",
+        "0.0124"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "lb/1000 tons plastic 0.0092 0.0161 0.0066 0.0248",
+      "material": "plastic",
+      "numbers": [
+        "1000",
+        "0.0092",
+        "0.0161",
+        "0.0066",
+        "0.0248"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "Ethyl benzene mg/kg plastic 0.0006 0.0029 0.0012 0.0056",
+      "material": "plastic",
+      "numbers": [
+        "0.0006",
+        "0.0029",
+        "0.0012",
+        "0.0056"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "lb/1000 tons plastic 0.0011 0.0058 0.0025 0.0111",
+      "material": "plastic",
+      "numbers": [
+        "1000",
+        "0.0011",
+        "0.0058",
+        "0.0025",
+        "0.0111"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "1-Hexene mg/kg plastic 0.0010 0.0148 0.0043 0.0220",
+      "material": "plastic",
+      "numbers": [
+        "1",
+        "0.0010",
+        "0.0148",
+        "0.0043",
+        "0.0220"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "lb/1000 tons plastic 0.0020 0.0296 0.0086 0.0440",
+      "material": "plastic",
+      "numbers": [
+        "1000",
+        "0.0020",
+        "0.0296",
+        "0.0086",
+        "0.0440"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "Anthracene µg/kg plastic film 7.14 0.66 1.32 0.40",
+      "material": "plastic",
+      "numbers": [
+        "7.14",
+        "0.66",
+        "1.32",
+        "0.40"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "lb/1000 tons plastic film 0.0143 0.0013 0.0026 0.0008",
+      "material": "plastic",
+      "numbers": [
+        "1000",
+        "0.0143",
+        "0.0013",
+        "0.0026",
+        "0.0008"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "Benzo(A)pyrene µg/kg plastic film 41.76 1.45 7.53 0.00",
+      "material": "plastic",
+      "numbers": [
+        "41.76",
+        "1.45",
+        "7.53",
+        "0.00"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "lb/1000 tons plastic film 0.0835 0.0029 0.0151 0.0000",
+      "material": "plastic",
+      "numbers": [
+        "1000",
+        "0.0835",
+        "0.0029",
+        "0.0151",
+        "0.0000"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "Benzo(B)fluoranthene µg/kg plastic film 34.63 1.59 9.25 0.93",
+      "material": "plastic",
+      "numbers": [
+        "34.63",
+        "1.59",
+        "9.25",
+        "0.93"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "lb/1000 tons plastic film 0.0693 0.0032 0.0185 0.0019",
+      "material": "plastic",
+      "numbers": [
+        "1000",
+        "0.0693",
+        "0.0032",
+        "0.0185",
+        "0.0019"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "Benzo(e)pyrene µg/kg plastic film 32.38 1.45 9.65 0.00",
+      "material": "plastic",
+      "numbers": [
+        "32.38",
+        "1.45",
+        "9.65",
+        "0.00"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "lb/1000 tons plastic film 0.0648 0.0029 0.0193 0.0000",
+      "material": "plastic",
+      "numbers": [
+        "1000",
+        "0.0648",
+        "0.0029",
+        "0.0193",
+        "0.0000"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "Benzo(G,H,I)perylene µg/kg plastic film 49.43 2.11 14.93 0.00",
+      "material": "plastic",
+      "numbers": [
+        "49.43",
+        "2.11",
+        "14.93",
+        "0.00"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "lb/1000 tons plastic film 0.0989 0.0042 0.0299 0.0000",
+      "material": "plastic",
+      "numbers": [
+        "1000",
+        "0.0989",
+        "0.0042",
+        "0.0299",
+        "0.0000"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "Benzo(K)fluoranthene µg/kg plastic film 13.74 0.66 2.51 0.00",
+      "material": "plastic",
+      "numbers": [
+        "13.74",
+        "0.66",
+        "2.51",
+        "0.00"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "lb/1000 tons plastic film 0.0275 0.0013 0.0050 0.0000",
+      "material": "plastic",
+      "numbers": [
+        "1000",
+        "0.0275",
+        "0.0013",
+        "0.0050",
+        "0.0000"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "Benz(A)anthracene µg/kg plastic film 52.73 2.91 14.41 1.19",
+      "material": "plastic",
+      "numbers": [
+        "52.73",
+        "2.91",
+        "14.41",
+        "1.19"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "lb/1000 tons plastic film 0.1055 0.0058 0.0288 0.0024",
+      "material": "plastic",
+      "numbers": [
+        "1000",
+        "0.1055",
+        "0.0058",
+        "0.0288",
+        "0.0024"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "Chrysene µg/kg plastic film 54.98 3.70 17.18 1.19",
+      "material": "plastic",
+      "numbers": [
+        "54.98",
+        "3.70",
+        "17.18",
+        "1.19"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "lb/1000 tons plastic film 0.1100 0.0074 0.0344 0.0024",
+      "material": "plastic",
+      "numbers": [
+        "1000",
+        "0.1100",
+        "0.0074",
+        "0.0344",
+        "0.0024"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "Fluoranthene µg/kg plastic film 313.08 53.39 107.05 39.12",
+      "material": "plastic",
+      "numbers": [
+        "313.08",
+        "53.39",
+        "107.05",
+        "39.12"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "lb/1000 tons plastic film 0.6262 0.1068 0.2141 0.0782",
+      "material": "plastic",
+      "numbers": [
+        "1000",
+        "0.6262",
+        "0.1068",
+        "0.2141",
+        "0.0782"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "Indeno(1,2,3-CD)pyrene µg/kg plastic film 40.04 2.78 10.70 0.00",
+      "material": "plastic",
+      "numbers": [
+        "1",
+        "2",
+        "3",
+        "40.04",
+        "2.78"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "lb/1000 tons plastic film 0.0801 0.0056 0.0214 0.0000",
+      "material": "plastic",
+      "numbers": [
+        "1000",
+        "0.0801",
+        "0.0056",
+        "0.0214",
+        "0.0000"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "Phenanthrene µg/kg plastic film 60.40 12.56 24.05 8.72",
+      "material": "plastic",
+      "numbers": [
+        "60.40",
+        "12.56",
+        "24.05",
+        "8.72"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "lb/1000 tons plastic film 0.1208 0.0251 0.0481 0.0174",
+      "material": "plastic",
+      "numbers": [
+        "1000",
+        "0.1208",
+        "0.0251",
+        "0.0481",
+        "0.0174"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "Pyrene µg/kg plastic film 203.26 18.24 58.81 5.95",
+      "material": "plastic",
+      "numbers": [
+        "203.26",
+        "18.24",
+        "58.81",
+        "5.95"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "lb/1000 tons plastic film 0.4065 0.0365 0.1176 0.0119",
+      "material": "plastic",
+      "numbers": [
+        "1000",
+        "0.4065",
+        "0.0365",
+        "0.1176",
+        "0.0119"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "Retene µg/kg plastic film 32.38 2.91 18.77 3.04",
+      "material": "plastic",
+      "numbers": [
+        "32.38",
+        "2.91",
+        "18.77",
+        "3.04"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "lb/1000 tons plastic film 0.0648 0.0058 0.0375 0.0061",
+      "material": "plastic",
+      "numbers": [
+        "1000",
+        "0.0648",
+        "0.0058",
+        "0.0375",
+        "0.0061"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "3. J. O. Burkle, et al., \"The Effects Of Operating Variables And Refuse Types On Emissions",
+      "material": "metal",
+      "numbers": [
+        "3."
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "Emissions From Forest Fires\", Presented At 68th Annual Meeting Air Pollution Control",
+      "material": "metal",
+      "numbers": [
+        "68"
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "Washington, D.C., Service Research Paper PNW-97. 1970.",
+      "material": "paper",
+      "numbers": [
+        "97.",
+        "1970."
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "21. Characterization Of Emissions From The Simulated Open Burning Of Scrap Tires ,",
+      "material": "tires",
+      "numbers": [
+        "21."
+      ],
+      "source_section": "2.5_open_burning"
+    },
+    {
+      "line": "are discussed in Chapter 12 (Metallurgical Industry).",
+      "material": "metal",
+      "numbers": [
+        "12"
+      ],
+      "source_section": "2.6_automobile_body_incineration"
+    },
+    {
+      "line": "partially stripped cars are burned. (Tires are removed.) Approximately 30 to 40 minutes is required to",
+      "material": "tires",
+      "numbers": [
+        "30",
+        "40"
+      ],
+      "source_section": "2.6_automobile_body_incineration"
+    },
+    {
+      "line": "Organic acids (acetic)d 0.21 0.10 0.07 0.03",
+      "material": "organic",
+      "numbers": [
+        "0.21",
+        "0.10",
+        "0.07",
+        "0.03"
+      ],
+      "source_section": "2.6_automobile_body_incineration"
+    },
+    {
+      "line": "a Moisture content as fired is approximately 50% for wood waste. Blanks indicate no data.",
+      "material": "wood",
+      "numbers": [
+        "50"
+      ],
+      "source_section": "2.7_conical_burners"
+    },
+    {
+      "line": "6. R. W. Boubel, et al., Wood Waste Disposal And Utilization. Engineering Experiment Station,",
+      "material": "wood",
+      "numbers": [
+        "6."
+      ],
+      "source_section": "2.7_conical_burners"
+    },
+    {
+      "line": "Oregon State University, Corvallis, OR, Bulletin Number 39. June 1958. p.57.",
+      "material": "metal",
+      "numbers": [
+        "39.",
+        "1958.",
+        "57."
+      ],
+      "source_section": "2.7_conical_burners"
+    },
+    {
+      "line": "7. A. B. Netzley and J. E. Williamson. Multiple Chamber Incinerators For Burning Wood Waste,",
+      "material": "wood",
+      "numbers": [
+        "7."
+      ],
+      "source_section": "2.7_conical_burners"
+    },
+    {
+      "line": "Station, Oregon State University, Corvallis, OR, Bulletin Number 42, August 1968, p. 7-8.",
+      "material": "metal",
+      "numbers": [
+        "42",
+        "1968",
+        "7",
+        "8."
+      ],
+      "source_section": "2.7_conical_burners"
+    }
+  ]
+}

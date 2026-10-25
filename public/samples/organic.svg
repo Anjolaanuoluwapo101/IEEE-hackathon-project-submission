@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" role="img" aria-label="Sample photo: organic waste">
+  <rect width="640" height="480" fill="#f7fee7"/>
+  <rect x="0" y="360" width="640" height="120" fill="#ecfccb"/>
+  <path d="M320 330c-62 0-104-42-104-96 0-64 62-112 104-140 42 28 104 76 104 140 0 54-42 96-104 96z" fill="#65a30d" opacity="0.85"/>
+  <path d="M320 320V196" stroke="#3f6212" stroke-width="6" stroke-linecap="round"/>
+  <g fill="#a3e635">
+    <ellipse cx="288" cy="242" rx="30" ry="14" transform="rotate(-28 288 242)"/>
+    <ellipse cx="352" cy="264" rx="30" ry="14" transform="rotate(26 352 264)"/>
+  </g>
+  <text x="40" y="60" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#365314">Organic waste</text>
+  <text x="40" y="92" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#4d7c0f">Sample photo (demo fallback)</text>
+</svg>

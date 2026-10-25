@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" role="img" aria-label="Sample photo: metal cans">
+  <rect width="640" height="480" fill="#f1f5f9"/>
+  <rect x="0" y="360" width="640" height="120" fill="#e2e8f0"/>
+  <g fill="#94a3b8">
+    <rect x="230" y="190" width="90" height="160" rx="12"/>
+    <rect x="330" y="214" width="80" height="136" rx="11"/>
+    <rect x="418" y="236" width="70" height="114" rx="10"/>
+  </g>
+  <g fill="#cbd5e1">
+    <rect x="230" y="206" width="90" height="14" rx="6"/>
+    <rect x="330" y="228" width="80" height="12" rx="6"/>
+    <rect x="418" y="248" width="70" height="11" rx="5"/>
+  </g>
+  <text x="40" y="60" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#1e293b">Metal cans</text>
+  <text x="40" y="92" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#475569">Sample photo (demo fallback)</text>
+</svg>

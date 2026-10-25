@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" role="img" aria-label="Sample photo: HDPE containers">
+  <rect width="640" height="480" fill="#eff6ff"/>
+  <rect x="0" y="360" width="640" height="120" fill="#dbeafe"/>
+  <g fill="#3b82f6">
+    <rect x="230" y="160" width="110" height="170" rx="14"/>
+    <rect x="258" y="126" width="54" height="42" rx="6"/>
+    <rect x="300" y="100" width="26" height="32" rx="6"/>
+    <rect x="366" y="196" width="86" height="134" rx="12"/>
+    <rect x="386" y="170" width="46" height="32" rx="6"/>
+  </g>
+  <g fill="#bfdbfe">
+    <rect x="246" y="214" width="78" height="10" rx="4"/>
+    <rect x="380" y="238" width="58" height="9" rx="4"/>
+  </g>
+  <text x="40" y="60" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#1e3a8a">HDPE containers</text>
+  <text x="40" y="92" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#1d4ed8">Sample photo (demo fallback)</text>
+</svg>
